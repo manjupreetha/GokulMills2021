@@ -27,7 +27,7 @@
 				"10 gms per day for calf (below one year)"
 			],
 			"package":"Available in 1kg, 5kg, 10kg",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -47,7 +47,7 @@
 				"10 ml per day for cow"
 			],
 			"package":"Available in 1 litre, 5 litre",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -82,7 +82,7 @@
 				"Place before the animal and make access to lick it"
 			],
 			"package":"Available in 1 kg, 2 kg",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -104,7 +104,7 @@
 					"5 -10 gms per day for calf (below one year)"
 			],
 			"package":"Available in 1 kg, 5 kg",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -124,7 +124,7 @@
 					"0.5 % mixing in compound feed as recommend by animal nutritionist"
 			],
 			"package":"Available in 1 kg, 5 kg",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -148,7 +148,7 @@
 					"10 ml per day for calf (below one year)"
 				],
 			"package":"Available in 1 litre, 5 litre and 10 litre can",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -178,7 +178,7 @@
 					"20 gms per day for cow or buffalo"
 				],
 			"package":"Available in 200 gms",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -208,7 +208,7 @@
 					"10 gms per day (above one year)"
 				],
 			"package":"Available in 1kg, 5kg, 10kg",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -228,7 +228,7 @@
 					"5 ml per day (above 6 months)"
 				],
 			"package":"Available in 1 litre, 5 litre",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -263,7 +263,7 @@
 					"Place before the animal and make access to lick it"
 				],
 			"package":"Available in 1 litre, 5 litre",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		},
 		{
@@ -285,7 +285,7 @@
 					"5 -10 ml per day for cow (below 300kg body weight)"
 				],
 			"package":"Available in 1 litre, 5 litre and 10 litre can",
-			"imageUrl":"../../../assets/images/sack.jpg",
+			"imageUrl":"assets/images/sack.jpg",
 			"link":"../getdetails"
 		}
 		
