@@ -4,19 +4,22 @@
 		"id":"m1",
 		"product_name":"Cows & Buffalows",
 		"link":"./getproduct",
-		"about":"This is a wider card with supporting text below as a natural lead-in to additional content."
+		"about":"Main Products details have to be given here",
+		"imageUrl":"assets/images/Cow.png"
 	},
 	{
 		"id":"m2",
 		"product_name":"Sheep & Goat",
 		"link":"./getproduct",
-		"about":"This is a wider card with supporting text below as a natural lead-in to additional content."
+		"about":"Main Products details have to be given here",
+		"imageUrl":"assets/images/Goat.png"
 	},
 	{
 		"id":"m3",
 		"product_name":"Fish",
 		"link":"./getproduct",
-		"about":"This is a wider card with supporting text below as a natural lead-in to additional content."
+		"about":"Main Products details have to be given here",
+		"imageUrl":"assets/images/Fish.png"
 	}
 	]
 }
